@@ -1,0 +1,82 @@
+[
+  {
+    "name": "National Merit Scholarship",
+    "description": "Awarded to students who demonstrate outstanding academic achievement in higher education.",
+    "eligibility_keywords": ["merit", "academic", "undergraduate", "graduate"],
+    "min_percentage": 85.0,
+    "max_family_income": 800000,
+    "category": "General",
+    "deadline": "31 October 2025",
+    "amount": "Up to ₹12,000 per year"
+  },
+  {
+    "name": "Central Sector Scheme Scholarship",
+    "description": "For students from families with income below a specified threshold who scored well in Class 12.",
+    "eligibility_keywords": ["class 12", "undergraduate", "low income", "merit"],
+    "min_percentage": 80.0,
+    "max_family_income": 450000,
+    "category": "General",
+    "deadline": "31 December 2025",
+    "amount": "₹10,000 per year (college) / ₹20,000 per year (professional)"
+  },
+  {
+    "name": "Post-Matric Scholarship for SC Students",
+    "description": "Supports SC students pursuing post-matriculation education.",
+    "eligibility_keywords": ["sc", "scheduled caste", "post matric", "undergraduate", "postgraduate"],
+    "min_percentage": 0.0,
+    "max_family_income": 250000,
+    "category": "SC",
+    "deadline": "30 November 2025",
+    "amount": "Maintenance allowance + tuition fee"
+  },
+  {
+    "name": "Post-Matric Scholarship for ST Students",
+    "description": "Supports ST students pursuing post-matriculation education.",
+    "eligibility_keywords": ["st", "scheduled tribe", "post matric", "undergraduate", "postgraduate"],
+    "min_percentage": 0.0,
+    "max_family_income": 250000,
+    "category": "ST",
+    "deadline": "30 November 2025",
+    "amount": "Maintenance allowance + tuition fee"
+  },
+  {
+    "name": "Pragati Scholarship for Girls",
+    "description": "Awarded to girl students pursuing technical education to promote gender equity.",
+    "eligibility_keywords": ["girl", "female", "technical", "engineering", "polytechnic"],
+    "min_percentage": 60.0,
+    "max_family_income": 800000,
+    "category": "General",
+    "deadline": "31 October 2025",
+    "amount": "₹30,000 per year"
+  },
+  {
+    "name": "OBC Scholarship Scheme",
+    "description": "Financial support for Other Backward Classes students in higher education.",
+    "eligibility_keywords": ["obc", "other backward class", "undergraduate", "postgraduate"],
+    "min_percentage": 0.0,
+    "max_family_income": 100000,
+    "category": "OBC",
+    "deadline": "31 January 2026",
+    "amount": "Up to ₹10,000 per year"
+  },
+  {
+    "name": "INSPIRE Scholarship (DST)",
+    "description": "For students who rank in the top 1% in Class 12 and pursue natural sciences.",
+    "eligibility_keywords": ["science", "natural science", "bsc", "undergraduate", "merit"],
+    "min_percentage": 90.0,
+    "max_family_income": 999999999,
+    "category": "General",
+    "deadline": "28 February 2026",
+    "amount": "₹80,000 per year"
+  },
+  {
+    "name": "Ishan Uday Scholarship (North East)",
+    "description": "For students from the North-East region enrolled in general degree courses.",
+    "eligibility_keywords": ["north east", "northeast", "undergraduate", "general degree"],
+    "min_percentage": 60.0,
+    "max_family_income": 450000,
+    "category": "General",
+    "deadline": "31 October 2025",
+    "amount": "₹5,400 – ₹7,800 per month"
+  }
+]

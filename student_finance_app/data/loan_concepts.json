@@ -1,0 +1,32 @@
+[
+  {
+    "term": "Principal",
+    "definition": "The principal is the original amount of money you borrow from a bank or lender. It is the starting amount before any interest is added.",
+    "example": "If you borrow ₹1,00,000 to buy a laptop, then ₹1,00,000 is your principal."
+  },
+  {
+    "term": "Interest",
+    "definition": "Interest is the extra money you pay the bank for lending you money. It is calculated as a percentage of your principal over time. The higher the interest rate, the more you pay back in total.",
+    "example": "If you borrow ₹1,00,000 at 10% annual interest, you pay ₹10,000 as interest in the first year."
+  },
+  {
+    "term": "EMI",
+    "definition": "EMI stands for Equated Monthly Instalment. It is the fixed amount you pay to the bank every month to repay your loan. Each EMI covers a portion of the principal and a portion of the interest.",
+    "example": "If your EMI is ₹3,000 per month, you pay ₹3,000 every month until the loan is fully repaid."
+  },
+  {
+    "term": "Loan Tenure",
+    "definition": "Loan tenure is the total time period over which you agree to repay the loan. It is usually measured in months or years. A longer tenure means smaller EMIs but more total interest paid.",
+    "example": "A 2-year tenure means you repay the loan over 24 monthly instalments."
+  },
+  {
+    "term": "Total Repayment",
+    "definition": "Total repayment is the complete amount you pay back to the bank including both the original principal and all the interest. It is always more than the amount you originally borrowed.",
+    "example": "If you borrowed ₹1,00,000 and paid a total of ₹1,18,000 by the end, your total repayment is ₹1,18,000 and total interest paid is ₹18,000."
+  },
+  {
+    "term": "Annual Interest Rate",
+    "definition": "The annual interest rate is the percentage of your loan amount that the lender charges you per year. For monthly EMI calculation, this rate is divided by 12 to get the monthly rate.",
+    "example": "An annual interest rate of 12% means the monthly rate is 1% (12 ÷ 12)."
+  }
+]
